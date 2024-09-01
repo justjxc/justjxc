@@ -1,4 +1,4 @@
-## Hi there 👋
+<h1 align="center">Hi there, i'm Evgeny</h1>
 
 <!--
 **justjxc/justjxc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
