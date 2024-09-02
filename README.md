@@ -8,7 +8,7 @@
   <h2>Stats</h2>
   
   <img src="https://streak-stats.demolab.com?user=[justjxc]&theme=transparent&fire=EB5454" alt="GitHub Streak"/>
-  <br>
+  <br /><br /><br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justjxc&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
 </div>
 
