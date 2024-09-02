@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, i'm Evgeny</h1>
 
 <p>
-  I'm junior web developer from Russia. I'm passionate about everything related to technology. I've made a few projects on ReactJS, you can check them out in my repositories. Currently, besides web development, i'm learning Data Science and Machine Learning.
+  I'm junior web developer from Russia. I'm passionate about everything related to technology. I've made a few projects on ReactJS, you can check them out in my repositories. Currently, besides web development, i'm learning Python, Data Science and Machine Learning.
 </p>
 
 <div align='center'>
