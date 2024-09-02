@@ -27,7 +27,7 @@
 <div align='center'>
   <h2>Contact me</h2>
 
-  <ul>
+  <ul align='center'>
     <li>bedarev.official@gmail.com</li>
     <li>https://t.me/JuSt1Q</li> 
   </ul>
