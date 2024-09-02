@@ -24,4 +24,8 @@
   </div>
 </div>
 
+<div align='center'>
+  <h2>Contact me</h2>
 
+  <p>bedarev.official@gmail.com</p>
+</div>
