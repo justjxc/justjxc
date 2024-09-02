@@ -14,11 +14,13 @@
 <div id="skills">
   <h2>Skills</h2>
   
-  <ul listStyleType='none'>
-    <li>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height='20px' width='20px' />
-    </li>
-  </ul>
+
++ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height='20px' width='20px' />
+
++ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height='20px' width='20px' />
+
++ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height='20px' width='20px' />
+
 </div>
 
 
